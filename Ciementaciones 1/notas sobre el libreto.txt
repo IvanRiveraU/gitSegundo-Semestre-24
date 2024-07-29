@@ -1,0 +1,85 @@
+Entonces, desde lo económico, para que una cimentación sea viable, el costo de esta mas
+el estudio de suelos no debe de exceder el veinte por ciento del costo total del proyecto.
+
+Por cada quetzal, no más de veinte centavos para mecánica de suelos y cimentación. De lo
+contrario es buen capital monetario enterrado.}
+
+El más adecuado para una estructura dada depende de varios factores como: función,
+cargas a soportar, condiciones del subsuelo, costo de cimentación vrs estructura general.
+
+Toda la cimentación o cualquiera de sus elementos puede fallar porque el suelo no
+soporta la carga aplicada. Es una falla por capacidad de carga
+
+El suelo o roca de carga pueden no fallar, pero el asentamiento de la estructura puede
+ser tan grande o tan disparejo que la estructura puede agrietarse y dañarse. Es un
+asentamiento perjudicial ó diferencial.
+
+Es una de las preguntas al inicio de este tema. Alguna normativa como la de vivienda mínima de la
+Asociación Guatemalteca de Ingenieros Estructurales –AGIES-recomienda entre 40 y 60
+centímetros, es decir de dos a tres hiladas de block en el emplantillado.
+Sin embargo,
+
+Como regla general debe aplicarse un factor de seguridad de 3 con las cargas
+especificadas en los reglamentos de construcción, siempre y cuando el subsuelo no es de
+tipo anormal y si sus propiedades se han investigado correctamente. El factor de
+seguridad, ordinariamente no debe ser menor a 2, aunque se conozcan las cargas
+máximas en un grado de precisión elevado y se conozca excepcionalmente el suelo
+
+El empleo de telas con
+estos fines se inicia en el presente siglo, en la década de los años 60, y los primeros
+textiles de ingeniería aparecen a principios de los años 70; 
+
+Los geotextiles son materiales de construcción, flexibles y permeables a los fluidos,
+capaces de retener partículas de suelo mayores que el tamaño de sus poros, que han sido
+diseñados y fabricados para trabajos de ingeniería civil.
+
+Se denomina “productos relacionados” aquellos similares a los geotextiles o a las geomembranas, que no se apegan a las definiciones anteriores.
+
+Diseño de cimiento corrido: pag 40
+
+cimientaciones para vivienda tipica 
+
+especificaciones para cimentacion pagina 53
+
+
+cimentaiones para maqinaria pag 62 
+
+dimensionamiento de zapata combinada pagina 70
+
+
+dimensionamiento de zapata trapezoidal combinada pag 76 
+
+zapatas simples 
+
+ zapata concentrica pagina 83 al 86
+ apata concentrica y pilotes de fricción pagina 87
+ zapata excentrica pagina 92 
+ zapata esquinada
+
+	SUELO LINEAL O NO LINEAL 
+ zapata expentrica grado 2 
+ zapta excentrica grado 3 pag 109
+	 	grado 4  pag 114
+
+	VIGAS CONECTORAS 119
+
+
+ 	nos quedamos en lectura pagina 30
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
