@@ -1,0 +1,15 @@
+	12 Cinemática de una particula 
+
+12.2 Cinemática rectilínea: movimiento continuo				ejercicios del  1 - 41
+12.3 Cinemática rectilínea: movimiento errático				ejercicios del 42 - 70
+	12.4 Movimiento Curvilineo General  			
+12.5 Movimiento curvilíneo: componentes rectangulares  
+12.6 Movimiento de un proyectil						ejercicios del 71 - 110
+	12.7 Movimiento curvilíneo: componentes normal y tangencial 	ejercicios del 110 - 155
+12.8 Movimiento curvilíneo: componentes					ejercicios del 156 - 194
+	12.9  Análisis del movimiento absoluto de dos partículas 	ejercicios del 195 - 231
+	12.10 Movimiento relativo de dos partículas utilizar ejes trasladantes 
+	13    Cinetica de una particula: fuerza y aceleración
+	15   Cinética de una partícula: impulso y cantidad de movimiento
+
+
