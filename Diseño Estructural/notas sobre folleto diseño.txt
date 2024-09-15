@@ -3,3 +3,8 @@ El pH alcalino del cemento protege, en principio, a la armadura de acero por med
 
 Vigas: son elementos estructurales horizontales diseñados para soportar cargas verticales y transmitirlas a los pilares o columnas. Las vigas de concreto reforzado están compuestas por una losa superior y una inferior, llamadas "ala", conectadas por barras de refuerzo verticales, conocidas como "estribos".
 2.
+
+
+Pcr = Carga crítica de una columna que produce pandeo entre 2 puntos de inflexión.
+
+La diferencia, el estribo confina principalmente en las esquinas y el Zuncho confina en la mayoría de su perimetro 
