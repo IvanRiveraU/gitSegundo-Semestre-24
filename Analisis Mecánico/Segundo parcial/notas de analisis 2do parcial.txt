@@ -1,0 +1,27 @@
+Forma de manera escalar 
+Movimiento plano General 
+Centro instantaneo de rotación 
+
+La velocidad angular esta apuntando hacia afuera o hacia adentro de la hoja 
+
+Ecuacion fundamental del movimeinto plano general 
+
+Traslacion y rotación 
+k es positivo cuandogira de manera antihoraria hacia la izquierda 
+
+MOVIMIENTO PLANO GENERAL 
+
+16-15. ropa
+gira con una angular de a A = (270112) rad/s2,
+donde OA está en Determine su aceleración angu-
+lar cuando t = 1 s, a partir del punto reposo.
+
+
+Los vectores de posicion van en direccion van en direccion de los eslabones 
+
+movimiento prismatico solamente traslacion 
+
+
+traslacion y rotacion es igual a movimiento complejo 
+
+posicion velocidad hasta rotacion 
