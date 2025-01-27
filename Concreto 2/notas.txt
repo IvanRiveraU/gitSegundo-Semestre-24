@@ -1,0 +1,10 @@
+Criterio a considerar primero:
+
+
+Evaluar Pu(carga axial) fuera mas de 100.8 ton y si f´c fuera mayor a 710 kg/cm2, lo que pide es que todas la barras longitudinales tienen que estar amarradas con un estribo o con un gancho suplementario.
+
+si el Pu fuera 150 ton y eso excede los 100.8 ton y se rompe esa condición, significa que se tiene que colocar a todas las barras longitudinales ganchos.
+
+Si la condición se cumple, el armado se queda asi, 
+
+se puede tener un gancho como diamante. 
